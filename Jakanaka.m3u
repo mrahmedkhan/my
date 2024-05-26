@@ -30,7 +30,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.iplt20.com/assets/images/news-1.jpg" group-title="LIVE EVENT",IPL English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F46%2Findex.m3u8&token=db034b2731e4c5d22f96c2e7da0322bad90d4693&is_vip=false&verify=1716703200-VmIktczTgN0hA9COx704tfw6x3aaq5jXK489MuE3nN4%3D
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F46%2Findex.m3u8&token=6782d5b69e3f0fbffb9693b4ba9ce040eba5d095&is_vip=false&verify=1716724800-Fq4xKXB5JmA2D334fEN4SrgqWQBG7ygGwMQy8iU6tsc%3D
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" group-title="LIVE EVENT",Toffee(Only Mobile)
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8?%7CCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716755268:KeyName=prod_live_events:Signature=l1ReQZPsTBA5UTYnX4sNRLoewbIleX5ES2h_muiP1sc2hYOFBs-2_OZALyye-KiNxfbuF0LIGVQN-0Jeb0wEBA
