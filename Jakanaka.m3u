@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fz2hRGOXwAAcFZp.jpg",Barca Tv
 #EXTVLCOPT:http-referrer=https://stylisheleg4nt.com/
 https://n9.dramaticreadings.com:999/hls/skyscr2.m3u8?md5=eH5AXP9PK_BgS9XKeJ-v8g&expires=1716922803
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fz2hRGOXwAAcFZp.jpg",Barca Tv2
+#EXTVLCOPT:http-referrer=https://stylisheleg4nt.com/
+https://n8.dramaticreadings.com:999/hls/tenspk.m3u8?md5=Rcxn2_5cnGImy236zH5F5Q&expires=1716925105
